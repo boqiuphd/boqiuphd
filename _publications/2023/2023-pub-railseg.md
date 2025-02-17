@@ -21,5 +21,5 @@ authors:
   - Wenjun Zeng
 
 links:
-  Paper: https://ieeexplore.ieee.org/document/10273212
+  paper: https://ieeexplore.ieee.org/document/10273212
 ---
